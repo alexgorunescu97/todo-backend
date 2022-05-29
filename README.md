@@ -1,1 +1,2 @@
-# Backend for todo app written in Java using the Spring Boot framework
+# Todo app
+Backend for todo app written in Java using the Spring Boot framework
